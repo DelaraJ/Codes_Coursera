@@ -1,0 +1,15 @@
+C:\uni\term3\week1\pairwise_two_digits\bin\Debug\net7.0\pairwise_two_digits.exe
+C:\uni\term3\week1\pairwise_two_digits\bin\Debug\net7.0\pairwise_two_digits.deps.json
+C:\uni\term3\week1\pairwise_two_digits\bin\Debug\net7.0\pairwise_two_digits.runtimeconfig.json
+C:\uni\term3\week1\pairwise_two_digits\bin\Debug\net7.0\pairwise_two_digits.dll
+C:\uni\term3\week1\pairwise_two_digits\bin\Debug\net7.0\pairwise_two_digits.pdb
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.csproj.AssemblyReference.cache
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.AssemblyInfoInputs.cache
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.AssemblyInfo.cs
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.csproj.CoreCompileInputs.cache
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.dll
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\refint\pairwise_two_digits.dll
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.pdb
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\pairwise_two_digits.genruntimeconfig.cache
+C:\uni\term3\week1\pairwise_two_digits\obj\Debug\net7.0\ref\pairwise_two_digits.dll

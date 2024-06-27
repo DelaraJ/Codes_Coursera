@@ -1,0 +1,15 @@
+C:\uni\term3\week1\sum_of_two_int\bin\Debug\net7.0\sum_of_two_int.exe
+C:\uni\term3\week1\sum_of_two_int\bin\Debug\net7.0\sum_of_two_int.deps.json
+C:\uni\term3\week1\sum_of_two_int\bin\Debug\net7.0\sum_of_two_int.runtimeconfig.json
+C:\uni\term3\week1\sum_of_two_int\bin\Debug\net7.0\sum_of_two_int.dll
+C:\uni\term3\week1\sum_of_two_int\bin\Debug\net7.0\sum_of_two_int.pdb
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.csproj.AssemblyReference.cache
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.AssemblyInfoInputs.cache
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.AssemblyInfo.cs
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.csproj.CoreCompileInputs.cache
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.dll
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\refint\sum_of_two_int.dll
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.pdb
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\sum_of_two_int.genruntimeconfig.cache
+C:\uni\term3\week1\sum_of_two_int\obj\Debug\net7.0\ref\sum_of_two_int.dll

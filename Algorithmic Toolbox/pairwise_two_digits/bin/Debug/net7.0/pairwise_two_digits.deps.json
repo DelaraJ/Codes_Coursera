@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pairwise_two_digits/1.0.0": {
+        "runtime": {
+          "pairwise_two_digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pairwise_two_digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

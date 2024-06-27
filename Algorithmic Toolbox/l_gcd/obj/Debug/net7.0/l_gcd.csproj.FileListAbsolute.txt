@@ -1,0 +1,15 @@
+C:\uni\term3\week2\l_gcd\bin\Debug\net7.0\l_gcd.exe
+C:\uni\term3\week2\l_gcd\bin\Debug\net7.0\l_gcd.deps.json
+C:\uni\term3\week2\l_gcd\bin\Debug\net7.0\l_gcd.runtimeconfig.json
+C:\uni\term3\week2\l_gcd\bin\Debug\net7.0\l_gcd.dll
+C:\uni\term3\week2\l_gcd\bin\Debug\net7.0\l_gcd.pdb
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.csproj.AssemblyReference.cache
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.AssemblyInfoInputs.cache
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.AssemblyInfo.cs
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.csproj.CoreCompileInputs.cache
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.dll
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\refint\l_gcd.dll
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.pdb
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\l_gcd.genruntimeconfig.cache
+C:\uni\term3\week2\l_gcd\obj\Debug\net7.0\ref\l_gcd.dll
